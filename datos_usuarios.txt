@@ -1,0 +1,9 @@
+Datos Usuarios-perfiles
+
+Administrador
+sucardozo@hotmail.com
+Contraseña:123456
+
+Socio
+rafaelesteche@gmail.com
+Contraseña:123456
